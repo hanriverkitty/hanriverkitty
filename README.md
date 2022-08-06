@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-0095D5?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white"/></a>
+
